@@ -1,4 +1,4 @@
-# Flutter Hands-on Leaning
+# Flutter Hands-on Learning
 このリポジトリは、将来的なオリジナルアプリ開発に向けて、Flutterの基礎構文やコンポーネント、  
 状態管理（State）などを手を動かしながら学ぶ（ハンズオン）ための練習用スペースです。
 
